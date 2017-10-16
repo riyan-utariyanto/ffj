@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Border</string>
+    <string name="desk">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate doloremque ducimus
+        eligendi error exercitationem nisi quae quia. Non, odio, velit? A beatae debitis dolor
+        eligendi est harum inventore maiores voluptas?n\
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur consequatur
+        consequuntur, cumque ducimus eligendi eum exercitationem facere harum, illum ipsa nemo,
+        odio quaerat quibusdam quos rem voluptates. Officiis, qui!
+    </string>
+</resources>
